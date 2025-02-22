@@ -1,3 +1,12 @@
 .venv
 
 .idea
+
+
+#Airflow Part
+config
+logs
+requirements.txt
+
+
+
